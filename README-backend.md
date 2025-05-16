@@ -6,7 +6,7 @@ This is the Flask backend for the Online Code Editor project. It connects to the
 
 - Execute Python, JavaScript, and C++ code
 - CORS-enabled for frontend integration
-- Hosted on Render (Free Plan)
+- Hosted on Render 
 
 ## 📁 Project Structure
 
@@ -22,7 +22,7 @@ This is the Flask backend for the Online Code Editor project. It connects to the
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/online-editor-backend.git
+git clone https://github.com/abaiml/CodeEditor-Flask-Backend.git
 cd online-editor-backend
 ```
 
