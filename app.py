@@ -3,7 +3,7 @@ import requests
 from flask_cors import CORS
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:5173"])
+CORS(app, origins=["https://unique-kleicha-411291.netlify.app/"])
 
 PISTON_URL = "https://emkc.org/api/v2/piston/execute"
 
